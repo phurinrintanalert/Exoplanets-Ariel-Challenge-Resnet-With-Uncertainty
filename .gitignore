@@ -1,0 +1,9 @@
+# Ignore large dataset files
+*.hdf5
+*.csv
+
+
+# Ignore Mac system files (if you are on a Mac)
+.DS_Store
+.idea/
+__pycache__/
